@@ -8,4 +8,4 @@ A basic to-do list using HTML, CSS, and Javascript
   
 ## License : MIT
 
-### Website hosted at : [Todo List]("https://shib00.github.io/to-do-list/")
+#### Website hosted at : [Todo List](https://shib00.github.io/to-do-list/)
